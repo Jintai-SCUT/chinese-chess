@@ -1,0 +1,3 @@
+﻿  ChessPiece.cpp
+D:\VSproject\实训测试版\实训测试版\ChessPiece.cpp(352,1): warning C4715: “Bishop::rules”: 不是所有的控件路径都返回值
+  实训测试版.vcxproj -> D:\VSproject\实训测试版\x64\Debug\实训测试版.exe
